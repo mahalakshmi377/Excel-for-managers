@@ -84,5 +84,3 @@ What-if Analysis
 VBA Macros
 
 Business Analytics
-
-🎯 Project Objective
